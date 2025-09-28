@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Reading Age Estimator",
+  "description": "A tool to estimate the reading age for a given word or phrase, along with the corresponding school year and profession for technical terms, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
